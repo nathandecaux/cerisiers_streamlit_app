@@ -1,4 +1,4 @@
-streamlit_timeline
+streamlit-vis-timeline
 hvplot
 extra-streamlit-components
 streamlit-option-menu
