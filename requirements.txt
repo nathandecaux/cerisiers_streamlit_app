@@ -1,5 +1,6 @@
 matplotlib
 streamlit-vis-timeline
 hvplot
+bokeh==2.4.3
 extra-streamlit-components
 streamlit-option-menu
